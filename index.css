@@ -1,11 +1,15 @@
+
 *{
     margin:0 ;
     padding:0;
 }
+
 body{
     height: 3000px;
 }
+
 /* Banner section */
+
 .banner{
     text-align: center;
     background:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%) , url('Banner Image.png') center ;
@@ -26,6 +30,7 @@ body{
     line-height: normal;
     padding-top:180px;
 }
+
 #banner{
     color: white;
     text-align: center;
@@ -50,6 +55,7 @@ body{
     line-height: normal;
     margin-top: 150px;
 }
+
 #fms2{
     color: #F00;
     text-align: center;
@@ -59,8 +65,8 @@ body{
     font-weight: 500;
     line-height: normal;
     margin-top: 60px;
-
 }
+
 #fms3{
     color: #070211;
     text-align: center;
@@ -70,15 +76,15 @@ body{
     font-weight: 700;
     line-height: normal;
     margin-top: 33px;
-
 }
+
 #fms4{
     text-align: center;
     margin-top: 48px;
-
 }
 
 /* second main section */
+
 .secondmainsection{
     background:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('Vectorrr.png');
     position: relative;
@@ -90,6 +96,7 @@ body{
     align-items: center;
     display: flex;
 }
+
 .mytext{
     padding-top: 126px ;
     padding-left: 126px;
@@ -104,10 +111,8 @@ body{
     font-size: 64px;
     font-style: normal;
     font-weight: 900;
-    line-height: 88px; /* 137.5% */
+    line-height: 88px; 
     letter-spacing: 7.04px; 
-   
-
 }
 
 #sms2{
@@ -119,8 +124,8 @@ body{
     font-weight: 400;
     line-height: 30px;
     margin-top: 24px; 
-
 }
+
 #sms3{
     background-color: #070211;
     border: 0;
@@ -134,7 +139,6 @@ body{
     text-transform: uppercase;
     padding-left: 44px ;
     margin-top: 48px;
-
  }  
 
  #group70{
@@ -147,7 +151,9 @@ body{
     flex-direction: column;
     flex-shrink: 0;
  }
+
  /* third main section */
+
  .thirdmainsection{
     text-align: center;
     width: 1320px;
@@ -156,7 +162,6 @@ body{
     margin: 120px auto;
     border-radius: 16px;
     padding-top: 100px;
-
  }
 
  .tms1{
@@ -177,7 +182,6 @@ body{
     font-weight: 600;
     line-height: 56px;
     text-transform: capitalize;
-
  }
 
  .tms2{
@@ -194,14 +198,9 @@ body{
     text-transform: uppercase;
     padding: 16px 32px;
     margin-top: 48px;
-
  }
 
  /* fourth main section */
-  .fourthmainsection{
-   
-
- } 
 
  #fthms1{
     text-align: left;
@@ -215,6 +214,7 @@ body{
     margin-left: 20px;
     list-style: none;
  }
+
  #fthms2{
     text-align: left;
     color: #070211;
@@ -228,6 +228,7 @@ body{
     margin-left: 20px;
     list-style: none;
  }
+
  #fthms3{
     width: 896px;
     text-align: left;
@@ -240,12 +241,12 @@ body{
     margin-top: 22px;
     margin-left: 20px;
     list-style: none;
-
  }
+
  /* fifth main section */
+
  .fifthmainsection{
     justify-content: center;
-
  }
 
  #fims1{
@@ -253,7 +254,6 @@ body{
     margin-top: 48px;
     margin-left: 20px;
     justify-content: space-around;
-
  }
 
  #fims2{
@@ -261,7 +261,6 @@ body{
     margin-top: 24px;
     margin-left: 20px;
     justify-content: space-around;
-
  }
 
  .cartimg{
@@ -269,10 +268,10 @@ body{
     height: 450px;
     flex-shrink: 0;
     border-radius: 16px;
-
  }
 
  /* last main section */
+
  .lastmainsection{
     width: 1320px;
     height: 616px;
@@ -283,14 +282,12 @@ body{
     justify-content: center;
     margin: 120px auto;
     padding-top: 80px;
-
  }
 
  #lsm1{
     width: 150px;
     height: 150px;
     flex-shrink: 0;
-
  }
 
  #lsm2{
@@ -302,7 +299,6 @@ body{
     font-weight: 900;
     line-height: normal;
     text-transform: capitalize;
-
  }
 
  #lsm3{
@@ -315,7 +311,6 @@ body{
     font-weight: 400;
     line-height: 32px;
     padding-left: 212px;
-
  }
 
  #lsm4{
@@ -326,36 +321,103 @@ body{
     background: #FFF;
     margin: 48px auto;
     align-items: center;
-    
-
  }
 
  #lsm5{
-    /* padding: 25px 477px 25px 30px; */
     border: 0;
-
  }
 
  #lsm6{
-    /* margin: 25px 25px 25px 494px; */
     border: 0;
     width: 210px;
-height: 72px;
-flex-shrink: 0;
-border-radius: 0px 50px 50px 0px;
-background: #F00;
-color: #FFF;
-text-align: center;
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
-font-weight: 600;
-line-height: normal;
-text-transform: capitalize;
-margin-left: 438px;
-
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-left: 438px;
  }
 
+ /* footer section */
 
+ #footer{
+      background: black;
+      height: 609px; 
+ }
+
+ .footerone{
+    flex-shrink: 0;
+    display: flex; 
+    padding-top: 120px;
+    padding-left: 140px;
+ }
+
+ #address{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; 
+    width: 375px;
+    height: 80px;
+ }
+ #call{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    margin-left: 560px;
+ }
+ #web{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    margin-left: 560px;
+ }
+  
+ #hr{
+    width: 1320px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+    margin: 50px auto;
+ } 
+
+ .footer2{
+    text-align: center;
+    justify-content: space-around;
+ }
+
+ #hr2{
+   width: 1320px;
+   height: 1px;
+   margin: 50px auto;
+ }
+
+ /* footer last */
+
+ .footerlast{
+    color: #FFF;
+    margin-top: 50px;
+ }
+
+ #flast{
+   margin-left: 140px;
+ }
+ #fllast{
+   margin-left: 880px;
+ }
 
  
