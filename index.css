@@ -314,22 +314,23 @@ body{
  }
 
  #lsm4{
-    width: 648px;
+    width: 650px;
     height: 72px;
     flex-shrink: 0;
     border-radius: 50px;
     background: #FFF;
     margin: 48px auto;
-    align-items: center;
+   
  }
 
  #lsm5{
     border: 0;
+    
  }
 
  #lsm6{
     border: 0;
-    width: 210px;
+    width: 260px; 
     height: 72px;
     flex-shrink: 0;
     border-radius: 0px 50px 50px 0px;
@@ -341,8 +342,8 @@ body{
     font-style: normal;
     font-weight: 600;
     line-height: normal;
-    text-transform: capitalize;
-    margin-left: 438px;
+    text-transform: capitalize; 
+    margin: 0px 0px 0px 230px;
  }
 
  /* footer section */
@@ -411,6 +412,18 @@ body{
  .footerlast{
     color: #FFF;
     margin-top: 50px;
+ }
+
+ #l2{
+   margin-left: 24px;
+ }
+
+ #l3{
+   margin-left: 24px;
+ }
+
+ #l4{
+   margin-left: 24px;
  }
 
  #flast{
