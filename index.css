@@ -142,9 +142,6 @@ body{
  }  
 
  #group70{
-     /* fill: radial-gradient(50% 50% at 50% 50%, #690B02 27%, #8F4941 39%, #B18079 51%, #CDADA8 62%, #E3D1CD 73%, #F2EAE7 84%, #FCFAF6 93%, #FFFFFC 100%); */
-     /* background-blend-mode: multiply; 
-     mix-blend-mode: multiply;  */
     width: 319.83px;
     height: 464.662px;
     padding: 0.008px 0px 0px 0px;
@@ -295,12 +292,81 @@ body{
   }
 
   /* bonus section 2 */
+.BS2{
+   width: 1320px;
+   height: 1320px;
+   margin:190px auto;
+   border-radius: 16px;
+   background-color: #FFF;
 
+  }
+
+.bs1{
+   text-align: center;
+
+  }
+#bbb1{
+   color: #070211;
+   font-family: Inter;
+   font-size: 24px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: normal;
+
+  }
+
+#bbb2{
+   color: #F00;
+   text-align: center;
+   font-family: Merriweather;
+   font-size: 72px;
+   font-style: normal;
+   font-weight: 900;
+   line-height: normal;
+
+  }
+
+#bbb3{
+   color: rgba(7, 2, 17, 0.60);
+   text-align: center;
+   font-family: Inter;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 32px; 
+
+  }
+
+.bs2{
+   background-image: url('Rectangle 1.png'); 
+   align-items: center;
+   width: 429px;
+   height: 433px;
+   flex-shrink: 0;
+   border-radius: 16px 16px 0px 0px;
+   margin-top: 64px;
+   margin-left: 891px;
+
+}
+#bbb4{
+margin-top: 10px;
+padding-right :0px ;
+margin-right: 0px;
+
+
+}
+
+.bs3{
+   background: url('Rectangle 2.png');
+   width: 1320px;
+   height: 600px;
+
+}
 
 
 
  /* fourth main section */
-
+ 
  #fthms1{
     text-align: left;
     color: #F00;
